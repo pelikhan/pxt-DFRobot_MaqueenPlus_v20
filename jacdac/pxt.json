@@ -1,5 +1,6 @@
 {
     "name": "dfrobot_maqueenplus_v20-jacdac",
+    "version": "1.2.1",
     "dependencies": {
         "core": "*",
         "radio": "*",
